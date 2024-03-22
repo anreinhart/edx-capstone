@@ -1,4 +1,3 @@
-EDX Capstone 
 This repository was created to house and share the two capstone projects required for the HarvardX: PH125.9x: Data Science course. The files included for each capstone:
 
 MovieLens Captsone
